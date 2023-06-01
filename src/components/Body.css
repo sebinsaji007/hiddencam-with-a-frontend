@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+.canvas {
+    display: none;
+    /* Add any styles for the canvas element */
+  }
+  
+ 
